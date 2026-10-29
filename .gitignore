@@ -1,0 +1,6 @@
+*.class
+*.jar
+dist/
+out/
+*.zip
+manifest.txt
